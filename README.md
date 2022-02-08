@@ -1,9 +1,9 @@
 
 <figure class="image">
     <p align="center">
-      <img src="assets/shooe_tilt_1.png">ShoeShop
+      <img src="assets/shooe_tilt_1.png">
     </p>
-  <figcaption>{{ include.description }}</figcaption>
+  <figcaption>{{ Shoe shop }}</figcaption>
 </figure>
 
 
