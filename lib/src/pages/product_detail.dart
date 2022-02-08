@@ -200,7 +200,7 @@ class _ProductDetailPageState extends State<ProductDetailPage>
                     crossAxisAlignment: CrossAxisAlignment.start,
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
-                      TitleText(text: "NIKE AIR MAX 200", fontSize: 25),
+                      TitleText(text: "NIKE AIR MAX 200", fontSize: 22),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.end,
                         children: <Widget>[
@@ -208,7 +208,7 @@ class _ProductDetailPageState extends State<ProductDetailPage>
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: <Widget>[
                               TitleText(
-                                text: "\$ ",
+                                text: " \$ ",
                                 fontSize: 18,
                                 color: LightColor.red,
                               ),
@@ -221,13 +221,13 @@ class _ProductDetailPageState extends State<ProductDetailPage>
                           Row(
                             children: <Widget>[
                               Icon(Icons.star,
-                                  color: LightColor.yellowColor, size: 17),
+                                  color: LightColor.yellowColor, size: 10),
                               Icon(Icons.star,
-                                  color: LightColor.yellowColor, size: 17),
+                                  color: LightColor.yellowColor, size: 10),
                               Icon(Icons.star,
-                                  color: LightColor.yellowColor, size: 17),
+                                  color: LightColor.yellowColor, size: 10),
                               Icon(Icons.star,
-                                  color: LightColor.yellowColor, size: 17),
+                                  color: LightColor.yellowColor, size: 10),
                               Icon(Icons.star_border, size: 17),
                             ],
                           ),
