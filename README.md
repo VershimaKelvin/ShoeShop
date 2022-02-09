@@ -11,3 +11,7 @@ ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/TheAlphamerc/flutter_ecommerce_app)  ![GitHub language count](https://img.shields.io/github/languages/count/VershimaKelvin/ShoeShop?color=ea)
 ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_ecommerce_app) ![GitHub contributors](https://img.shields.io/github/contributors/TheAlphamerc/flutter_ecommerce_app?color=ead)
+
+##Installation
+
+
