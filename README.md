@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">ShoeShop</h3>
 <br>
-***
+
 
 ## Project Overview
 
