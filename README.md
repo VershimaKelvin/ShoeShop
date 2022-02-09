@@ -13,6 +13,16 @@ ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has
 ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_ecommerce_app) ![GitHub contributors](https://img.shields.io/github/contributors/TheAlphamerc/flutter_ecommerce_app?color=ead)
 
 
+##Screens
+ShoeShop is a simple ecommerce app with a few screens which are
+*Home Page
+*Product detail page
+*Cart page
+*Animated Bottom Navigator
+*Smooth Animation
+
+Screenshots of each page can be found below
+
 ## Installation
 
 To get the source code on your computer and ready to run, all you have to do is clone the repo
