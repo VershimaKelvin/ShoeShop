@@ -3,4 +3,6 @@
 </p>
 <h1 align="center">ShoeShop</h1>
 
-# Project Overview
+## Project Overview
+
+ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has a beautiful and responsive user interface which gives detailed information about a particular item available for sale
