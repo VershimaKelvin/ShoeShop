@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/shooe_tilt_1.png">
 </p>
-<h2 align="center">ShoeShop</h2>
+<h3 align="center">ShoeShop</h3>
 
 ## Project Overview
 
