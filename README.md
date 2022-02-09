@@ -17,11 +17,11 @@ ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has
 ShoeShop is a simple ecommerce app with a few screens which are
 
 
-*Home Page
-*Product detail page
-*Cart page
-*Animated Bottom Navigator
-*Smooth Animation
+* Home Page
+* Product detail page
+* Cart page
+* Animated Bottom Navigator
+* Smooth Animation
 
 Screenshots of each page can be found below
 
