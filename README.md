@@ -42,6 +42,7 @@ then run pub get to get all the dependency used.
 ## ScreenShoots
 Here are some screenshots of the application taken from an Android device
 
-<img src="assets/shoe.jpg" alt="drawing" width="300"/>
-<img src="assets/shoe2.jpg" alt="drawing" width="300"/>
-<img src="assets/shoe3.jpg" alt="drawing" width="300"/>
+| home page| product detail| cart|
+|-------|------|
+|<img src="assets/shoe.jpg" alt="drawing" width="300"/>|<img src="assets/shoe2.jpg" alt="drawing" width="300"/>|<img src="assets/shoe3.jpg" alt="drawing" width="300"/>|
+
