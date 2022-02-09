@@ -40,3 +40,8 @@ then run pub get to get all the dependency used.
 
 
 ## ScreenShoots
+Here are some screenshots of the application taken from an Android device
+
+![](assets/shoe.jpg)
+![](assets/shoe2.jpg)
+![](assets/shoe3.jpg)
