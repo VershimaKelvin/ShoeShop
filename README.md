@@ -43,6 +43,6 @@ then run pub get to get all the dependency used.
 Here are some screenshots of the application taken from an Android device
 
 | home page| product detail| cart|
-|-------|------|
+
 |<img src="assets/shoe.jpg" alt="drawing" width="300"/>|<img src="assets/shoe2.jpg" alt="drawing" width="300"/>|<img src="assets/shoe3.jpg" alt="drawing" width="300"/>|
 
