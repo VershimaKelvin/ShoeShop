@@ -15,14 +15,6 @@ ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has
 
 ## Installation
 
-To get the source code on your computer and ready to run,all you have to do is clone the repo 
+To get the source code on your computer and ready to run, all you have to do is clone the repo
+<span style="background-color: #FFFF00">git clone URL</span>
 
-
-'''
-    git clone URL
-'''
-then run pub get to get all dependencies
-
-'''
-  pub get
-'''
