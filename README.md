@@ -7,4 +7,4 @@
 
 ## Project Overview
 
-ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has a beautiful and responsive user interface which gives detailed information about a particular item available for sale.
+ShoeShop is an ecommerce app for buying of shoes, its built with flutter, it has a beautiful and responsive user interface which gives detailed information about a particular item available for sale. The author of this project is [TheAlphamerc](https://github.com/TheAlphamerc)
