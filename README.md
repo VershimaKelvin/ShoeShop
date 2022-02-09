@@ -3,4 +3,4 @@
 </p>
 <h1 align="center">ShoeShop</h1>
 
-## ShoeShop
+# Project Overview
