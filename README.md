@@ -24,3 +24,5 @@ then run pub get to get all the dependency used.
 
 *--  pub get*
 
+![Pub Version](https://img.shields.io/pub/v/flutter)
+
