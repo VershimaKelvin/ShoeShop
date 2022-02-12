@@ -45,6 +45,11 @@ After a succesfull run and you have gotten a 0 exit code as shown below,
   <img src="assets/markdown.png">
 </p>  
 
+you can connect a physical device or use an emulator to test the app. To run the app, navigate to Run on the menu bar and click **Run'main.dart'**
+
+<p align="center">
+  <img src="assets/runmain.png">
+</p>  
 
 
 
