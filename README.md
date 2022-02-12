@@ -42,10 +42,8 @@ After a succesfull run and you have gotten a 0 exit code as shown below,
 
 
 <p align="center">
-  <img src="">
+  <img src="assets/markdown.png">
 </p>  
-
-![]()
 
 
 
