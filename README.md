@@ -32,11 +32,22 @@ To get the source code on your computer and ready to run, all you have to do is 
 *git clone [URL]*
 
 
-and installing Flutter on your [windows](https://docs.flutter.dev/get-started/install/windows), [mac](https://docs.flutter.dev/get-started/install/macos), [Linux](https://docs.flutter.dev/get-started/install/linux) then run pub get to get all the dependency used.
+and installing Flutter on your [windows](https://docs.flutter.dev/get-started/install/windows), [mac](https://docs.flutter.dev/get-started/install/macos) or [Linux](https://docs.flutter.dev/get-started/install/linux) then run pub get to get all the dependency used.
 
 *pub get*
 
 ![Pub Version](https://img.shields.io/pub/v/flutter)
+
+After a succesfull run and you have gotten a 0 exit code as shown below,
+
+
+<p align="center">
+  <img src="">
+</p>  
+
+![]()
+
+
 
 
 ## ScreenShoots
