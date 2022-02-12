@@ -27,12 +27,12 @@ Screenshots of each page can be found below
 
 ## Installation
 
-To get the source code on your computer and ready to run, all you have to do is clone the repo
+To get the source code on your computer and ready to run, all you have to do is clone the repo by running the git command 
 
-*git clone URL*
+*git clone [URL]*
 
 
-then run pub get to get all the dependency used.
+and installing Flutter on your [windows](https://docs.flutter.dev/get-started/install/windows), [mac](https://docs.flutter.dev/get-started/install/macos), [Linux](https://docs.flutter.dev/get-started/install/linux) then run pub get to get all the dependency used.
 
 *pub get*
 
